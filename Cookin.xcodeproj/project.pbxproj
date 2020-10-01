@@ -123,7 +123,7 @@
 		EE82975124E912F1004D9155 = {
 			isa = PBXGroup;
 			children = (
-				EE82975C24E912F1004D9155 /* cookin */,
+				EE82975C24E912F1004D9155 /* Cookin */,
 				EE82975B24E912F1004D9155 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -136,7 +136,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EE82975C24E912F1004D9155 /* cookin */ = {
+		EE82975C24E912F1004D9155 /* Cookin */ = {
 			isa = PBXGroup;
 			children = (
 				EE82978224E98F5E004D9155 /* Extension+CustomViews */,
@@ -151,7 +151,7 @@
 				EE82976924E912F3004D9155 /* Info.plist */,
 				EE82976324E912F3004D9155 /* Preview Content */,
 			);
-			path = cookin;
+			path = Cookin;
 			sourceTree = "<group>";
 		};
 		EE82976324E912F3004D9155 /* Preview Content */ = {
