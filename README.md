@@ -1,5 +1,5 @@
 # CookinSwiftUI-MVVM
-A Recipe App Written in SwiftUI Using TheMealDB APIs
+A tvOS Recipe App Written in SwiftUI Using TheMealDB APIs
 
 [Available on AppStore](https://apps.apple.com/us/app/id1528890456)
 
