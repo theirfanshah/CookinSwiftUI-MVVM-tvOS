@@ -11,6 +11,18 @@ The best TV app of different delicious recipes “Cookin - A Recipe Book”. Now
 
 You have some ingredients but have no idea of any best recipe to be made, then here we come with an exciting feature. Just select your ingredients and the Cookin app will automatically carry out the best recipe for you.
 
+## Requirements
+* Xcode version 11.2.1+
+* Swift 5
+* iPhone 6s or higher
+* iOS 13.0+
+
+## Screenshots
 ![Alt text](/Screenshots/1.png?raw=true "Screenshot 1")
 ![Alt text](/Screenshots/2.png?raw=true "Screenshot 2")
 ![Alt text](/Screenshots/3.png?raw=true "Screenshot 3")
+
+## License
+Licensed under [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html)
+
+Copyright 2020 theirfanshah
